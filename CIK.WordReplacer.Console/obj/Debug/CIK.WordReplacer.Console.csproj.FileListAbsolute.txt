@@ -1,0 +1,16 @@
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Console\bin\Debug\CIK.WordReplacer.Console.exe.config
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Console\bin\Debug\CIK.WordReplacer.Console.exe
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Console\bin\Debug\CIK.WordReplacer.Console.pdb
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Console\bin\Debug\CIK.WordReplacer.dll
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Console\bin\Debug\Raven.Abstractions.dll
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Console\bin\Debug\Raven.Client.Lightweight.dll
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Console\bin\Debug\CIK.WordReplacer.pdb
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Console\bin\Debug\Raven.Abstractions.pdb
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Console\bin\Debug\Raven.Abstractions.xml
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Console\bin\Debug\Raven.Client.Lightweight.pdb
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Console\bin\Debug\Raven.Client.Lightweight.xml
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Console\obj\Debug\CIK.WordReplacer.Console.csprojResolveAssemblyReference.cache
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Console\obj\Debug\CIK.WordReplacer.Console.exe
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Console\obj\Debug\CIK.WordReplacer.Console.pdb

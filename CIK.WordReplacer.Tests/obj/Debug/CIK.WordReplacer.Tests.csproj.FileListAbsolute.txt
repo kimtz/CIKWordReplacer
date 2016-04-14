@@ -1,0 +1,15 @@
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Tests\bin\Debug\CIK.WordReplacer.Tests.dll
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Tests\bin\Debug\CIK.WordReplacer.Tests.pdb
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Tests\bin\Debug\CIK.WordReplacer.dll
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Tests\bin\Debug\nunit.framework.dll
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Tests\bin\Debug\Raven.Client.Lightweight.dll
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Tests\bin\Debug\Raven.Abstractions.dll
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Tests\bin\Debug\CIK.WordReplacer.pdb
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Tests\bin\Debug\nunit.framework.xml
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Tests\bin\Debug\Raven.Client.Lightweight.pdb
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Tests\bin\Debug\Raven.Client.Lightweight.xml
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Tests\bin\Debug\Raven.Abstractions.pdb
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Tests\bin\Debug\Raven.Abstractions.xml
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Tests\obj\Debug\CIK.WordReplacer.Tests.csprojResolveAssemblyReference.cache
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Tests\obj\Debug\CIK.WordReplacer.Tests.dll
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer.Tests\obj\Debug\CIK.WordReplacer.Tests.pdb

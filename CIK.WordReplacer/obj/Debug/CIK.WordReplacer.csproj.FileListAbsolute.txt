@@ -1,0 +1,10 @@
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer\bin\Debug\CIK.WordReplacer.dll
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer\bin\Debug\CIK.WordReplacer.pdb
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer\bin\Debug\Raven.Abstractions.dll
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer\bin\Debug\Raven.Client.Lightweight.dll
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer\bin\Debug\Raven.Abstractions.pdb
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer\bin\Debug\Raven.Abstractions.xml
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer\bin\Debug\Raven.Client.Lightweight.pdb
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer\bin\Debug\Raven.Client.Lightweight.xml
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer\obj\Debug\CIK.WordReplacer.dll
+C:\Users\kim.tengbom\Documents\Visual Studio 2015\CodeIsKing\CIK.WordReplacer\CIK.WordReplacer\obj\Debug\CIK.WordReplacer.pdb
